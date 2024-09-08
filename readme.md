@@ -5,6 +5,7 @@
 
 This compiles to a ~ 4 MB binary while being faster than electron-based Todoist these days. Note, this is a fun project. There is no persistence or any feature implemented.
 
+You can find the source code in the examples folder, react. Also a binary is available in releases.
 
 
 ## License
