@@ -3,6 +3,8 @@
 
 > Combining a [TodoMVC](https://github.com/tastejs/todomvc) with [Tauri](https://github.com/tauri-apps/tauri)
 
+# ![Application Architecture](media/application_architecture.png)
+
 This compiles to a ~ 4 MB binary while being faster than electron-based Todoist these days. Note, this is a fun project. There is no persistence or any feature implemented.
 
 You can find the source code in the examples folder, react. Also a binary is available in releases.
